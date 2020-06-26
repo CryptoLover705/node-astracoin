@@ -20,7 +20,7 @@ Then, install the node-astracoin NPM package.
 
 or
 
-`npm install git://github.com/CryptoLover705/node-astracoincoin/`
+`npm install git://github.com/CryptoLover705/node-astracoin/`
 
 ## Examples
 
