@@ -1,4 +1,4 @@
-# A Node.js Altcoin Client!
+# A Node.js Astracoin Client!
 
 [![NPM](https://nodei.co/npm/node-altcoin.png?downloads=true&stars=true)](https://nodei.co/npm/node-altcoin/)
             
@@ -12,22 +12,22 @@ node-altcoin is a altcoin client for Node.js. It is a fork of the excellent Kapi
 
 ## Dependencies
 
-You'll need a running instance of a [litecoind](https://github.com/litecoin-project/litecoin) to connect with. 
+You'll need a running instance of a [Astracoind](https://github.com/CryptoLover705/astra-wallets/releases/download/1.0.0.2/Astralinux.zip) to connect with. 
 
 Then, install the node-altcoin NPM package.
 
-`npm install node-altcoin`
+`npm install node-astracoin`
 
 or
 
-`npm install git://github.com/nrpatten/node-altcoin/`
+`npm install git://github.com/CryptoLover705/node-astracoincoin/`
 
 ## Examples
 
 Some code examples follow below.
 
 ```js
-var altcoin = require('node-altcoin')()
+var astracoin = require('node-astracoin')()
 
 altcoin.auth('myusername', 'mypassword')
 
