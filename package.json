@@ -1,22 +1,22 @@
 {
-  "name": "node-altcoin",
+  "name": "node-astracoin",
   "version": "0.1.2",
-  "description": "AltCoin RPC Node Client",
-  "main": "./altcoin.js",
+  "description": "Astracoin RPC Node Client",
+  "main": "./astracoin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nrpatten/node-altcoin.git"
+    "url": "git://github.com/CryptoLover705/node-astracoin.git"
   },
   "keywords": [
-    "altcoin"
+    "astracoin"
   ],
-  "author": "NRPatten",
+  "author": "CryptoLover705",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nrpatten/node-altcoin/issues"
+    "url": "https://github.com/CryptoLover705/node-astracoin/issues"
   },
-  "homepage": "https://github.com/nrpatten/node-altcoin"
+  "homepage": "https://github.com/CryptoLover705/node-astracoin"
 }
