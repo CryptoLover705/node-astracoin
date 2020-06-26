@@ -1,5 +1,5 @@
 {
-  "name": "node-astracoin",
+  "name": "@cryptolover705/node-astracoin",
   "version": "0.1.2",
   "description": "Astracoin RPC Node Client",
   "main": "./astracoin.js",
