@@ -2,6 +2,7 @@
   "name": "@cryptolover705/node-astracoin",
   "version": "0.1.2",
   "description": "Astracoin RPC Node Client",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "./astracoin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
